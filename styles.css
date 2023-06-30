@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    background: linear-gradient(coral, plum, #F88378);
+    color: whitesmoke;
+}
+h1, h2, h3, h4, p {
+    text-shadow: O O coral;
+}
+#bff-img {
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid #F6B7B1;
+    margin-bottom: 10px;
+}
+#bday-age {
+    background: #F6B7B1;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+#bday-date {
+    margin: 0;
+    background: #F6B7B1;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.gift-section {
+    margin-top: 50px;
+}
+.gift-title {
+    margin-bottom: 10px;
+}
+.gift-hint {
+    margin-top: 0;
+}
+#gift-img-cheers {
+    height: 200px;
+}
+.gift-img {
+    margin: 20px auto;
+    max-width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("images/gift-cover.webp");
+    background-size: cover;
+}
+#gift-img-happy:hover {
+    background-image: url("https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif");
+}
+#gift-img-cake:hover {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM-tTmnCFU5SZfUwM8Xv-VexTag4aOVYc5ZQ&usqp=CAU");
+    
+}
+#gift-img-word:hover {
+    background-image: url("https://logos.flamingtext.com/Word-Logos/old-design-memories-name.gif");
+}
+#gift-img-cheers:hover {
+    background-image: url("https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif");
+}
