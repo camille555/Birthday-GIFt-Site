@@ -52,15 +52,15 @@ h1, h2, h3, h4, p {
     background-size: cover;
 }
 #gift-img-happy:hover {
-    background-image: url("https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif");
+    background-image: url("images/happy.webp");
 }
 #gift-img-cake:hover {
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM-tTmnCFU5SZfUwM8Xv-VexTag4aOVYc5ZQ&usqp=CAU");
+    background-image: url("images/cake.jpg");
     
 }
 #gift-img-word:hover {
-    background-image: url("https://logos.flamingtext.com/Word-Logos/old-design-memories-name.gif");
+    background-image: url("images/word.gif");
 }
 #gift-img-cheers:hover {
-    background-image: url("https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif");
+    background-image: url("images/cheers.gif");
 }
